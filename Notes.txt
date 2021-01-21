@@ -1,4 +1,4 @@
-DB username: 
-Port#: 5432
+DB username: localhost
+Port#: 
 Password: 
 Database Name:
