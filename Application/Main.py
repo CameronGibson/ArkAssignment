@@ -9,7 +9,7 @@ try:
         "Server=desktop-m3p0ek9\localhost;"
         "Database=Ark;"
         "Trusted_Connection=yes")
-    
+
     cursor = connection.cursor()
 
     print("Storing data in the database...")

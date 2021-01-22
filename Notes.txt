@@ -1,4 +1,0 @@
-DB username: localhost
-Port#: 
-Password: 
-Database Name:
