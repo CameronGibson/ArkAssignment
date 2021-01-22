@@ -24,6 +24,6 @@ PHASE TWO ANSWERS:
   
   2. Onion Powder
   
-  3.
+  3. 2020-15-12 (December 15th, 2020)
 
 Enjoy! I had a good time playing with Python more in depth for the first time, it's starting to grow on me :)
