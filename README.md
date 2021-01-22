@@ -17,7 +17,7 @@ The SQL queries that were used to answer the questions below are located in the 
 
 PHASE TWO ANSWERS:
 
-  1. 
+  1. Kore McMonnies
   
   2.
   
