@@ -54,5 +54,4 @@ except pyodbc.Error as ex:
             sys.exit("\nAn error has occured while obtaining a connection to SQLServer... \nExiting the program gracefully.")         
 
 #upon completion of the date being persisted, close the cursor and and the connection before exiting the program.
-finally: 
-    sys.exit("\nTransaction complete: Exiting the program gracefully.")
+sys.exit("\nTransaction complete: Exiting the program gracefully.")
