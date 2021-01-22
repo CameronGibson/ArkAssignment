@@ -6,8 +6,11 @@ DBMS: SQLServer /
 Programming Language: Python
 
 Imports used: 
+
   pyodbc - for SQLServer connection.
+  
   sys - just for exiting gracefully.
+  
   csv - to use the csv file reading library.
   
 All of my code is in Main.py, I opted against separating things into different files for the sake of simplicity and the code base isn't too large.
