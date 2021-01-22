@@ -53,5 +53,5 @@ except pyodbc.Error as ex:
         if sqlstate == '28000':
             sys.exit("\nAn error has occured while obtaining a connection to SQLServer... \nExiting the program gracefully.")         
 
-#upon completion of the date being persisted, close the cursor and and the connection before exiting the program.
+#upon completion of the date being persisted, exit the program.
 sys.exit("\nTransaction complete: Exiting the program gracefully.")
