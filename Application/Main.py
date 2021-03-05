@@ -6,7 +6,7 @@ import sys
 try:
     connection = pyodbc.connect(
         "Driver={SQL Server Native Client 11.0};"
-        "Server=desktop-m3p0ek9\localhost;"
+        "Server=;"
         "Database=Ark;"
         "Trusted_Connection=yes")
 
